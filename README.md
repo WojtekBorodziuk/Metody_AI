@@ -39,5 +39,5 @@ Projekt realizuje wykrywanie anomalii na danych giełdowych w oparciu o klasyfik
 
 - Skrypt pobiera dane z Yahoo Finance, więc wymaga połączenia z internetem.
 - `main.py` wykonuje pełny eksperyment CV i wypisuje wyniki na konsolę.
-- Katalog `figures/` zawiera wyniki analizy i wykresy, które można dołączyć do prezentacji.
+- Katalog `figures/` zawiera wyniki analizy i wykresy
 
