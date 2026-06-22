@@ -11,7 +11,6 @@ Projekt realizuje wykrywanie anomalii na danych giełdowych w oparciu o klasyfik
   - `models.py` - definicje klasyfikatorów i metod resamplingu.
   - `experiment.py` - walidacja krzyżowa, testy Shapiro-Wilka i t-Studenta.
 - `figures/` - gotowe wykresy i wizualizacje wyników.
-- `prezentacja.html` - prezentacja projektu.
 - `.gitignore` - ignoruje wirtualne środowisko, `.idea`, cache Pythona itd.
 
 ## Wymagania
