@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Wirtualne środowisko
+venv/
+.venv/
+env/
+
+# Konfiguracja IDE
+.idea/
+.vscode/
+
+# Cache yfinance / systemowe
+.cache/
+*.log
