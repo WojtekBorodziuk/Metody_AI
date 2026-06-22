@@ -42,18 +42,3 @@ Projekt realizuje wykrywanie anomalii na danych giełdowych w oparciu o klasyfik
 - `main.py` wykonuje pełny eksperyment CV i wypisuje wyniki na konsolę.
 - Katalog `figures/` zawiera wyniki analizy i wykresy, które można dołączyć do prezentacji.
 
-## Co warto umieścić na GitHubie
-
-- `main.py`
-- `requirements.txt`
-- `src/`
-- `figures/`
-- `prezentacja.html`
-- `README.md`
-- `.gitignore`
-
-## Co wykluczyć z repozytorium
-
-- `venv/` lub inne środowisko wirtualne
-- `.idea/` oraz pliki konfiguracji IDE
-- pliki tymczasowe Pythona (`__pycache__/`, `*.pyc`)
